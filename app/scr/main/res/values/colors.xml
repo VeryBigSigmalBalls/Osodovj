@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arc_bg">#0B0D12</color>
+    <color name="arc_panel">#151923</color>
+    <color name="arc_panel2">#1B2030</color>
+    <color name="arc_text">#F4F5F7</color>
+    <color name="arc_muted">#9AA3B2</color>
+    <color name="arc_accent">#7C5CFF</color>
+</resources>
