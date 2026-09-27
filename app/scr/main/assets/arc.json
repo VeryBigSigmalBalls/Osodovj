@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "heroes": [
+    {
+      "id": "example",
+      "name": "Example Hero",
+      "skins": [
+        { "id": "default", "name": "Default" },
+        { "id": "skin_01", "name": "Skin 01" }
+      ],
+      "packages": {
+        "default->skin_01": "",
+        "skin_01->default": ""
+      }
+    }
+  ]
+}
