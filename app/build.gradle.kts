@@ -15,6 +15,12 @@ android {
         versionName = "1.0"
     }
 
+    sourceSets {
+        getByName("main") {
+            setRoot("scr/main")
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
