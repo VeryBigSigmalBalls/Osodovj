@@ -1,0 +1,10 @@
+ARC INJECTOR - GITHUB BUILD
+
+1. Create a new GitHub repository.
+2. Upload the contents of this folder.
+3. Commit to main.
+4. Open Actions.
+5. Run "Build Arc Injector APK".
+6. Download the "ArcInjector-debug" artifact from the completed run.
+
+You do NOT need to run Gradle on your phone.
